@@ -1,3 +1,7 @@
+<head>
+    <title>Witty title you added in step 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 body {
     background: rgb(125, 198, 205);
     color: rgb(45, 45, 45);
@@ -60,3 +64,20 @@ main {
 h2, h3 {
     margin: 0px;
 }
+[id=all-contents] {
+    max-width: 800px;
+    margin: auto;
+ }
+ #all-contents {
+    max-width: 800px;
+    margin: auto;
+ }
+ [class=sidebar] {
+    margin-right: 25px;
+    padding: 10px;
+ }
+ .sidebar {
+    margin-right: 25px;
+    padding: 10px;
+ }
+</body>
