@@ -18,6 +18,7 @@ body {
 nav {
     background: rgb(79, 82, 245);
    margin: 0 auto;
+   margin-bottom: 20px;
     display: flex;
     padding: 10px;
 }
@@ -50,7 +51,7 @@ main {
     padding: 10px;
 }
 .sidebar-img {
-    width: 200px;
+    width: 100px;
 }
 .content {
     flex: 1;
