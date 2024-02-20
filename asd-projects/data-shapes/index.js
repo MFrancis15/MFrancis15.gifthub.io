@@ -207,7 +207,7 @@ $(document).ready(function () {
     }
   }
 
-  // This function animates bouncing
+  // This function animates bouncing 
   function animateBounce() {
     animationDetails.x += animationDetails.speedX;
     animationDetails.y += animationDetails.speedY;
